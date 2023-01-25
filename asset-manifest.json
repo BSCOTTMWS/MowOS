@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mowos/static/css/main.073c9b0a.css",
-    "main.js": "/mowos/static/js/main.be15c6e9.js",
-    "static/js/787.ad98bcd2.chunk.js": "/mowos/static/js/787.ad98bcd2.chunk.js",
-    "static/media/logo.svg": "/mowos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/mowos/index.html",
-    "main.073c9b0a.css.map": "/mowos/static/css/main.073c9b0a.css.map",
-    "main.be15c6e9.js.map": "/mowos/static/js/main.be15c6e9.js.map",
-    "787.ad98bcd2.chunk.js.map": "/mowos/static/js/787.ad98bcd2.chunk.js.map"
+    "main.css": "/mowos/index.html/static/css/main.073c9b0a.css",
+    "main.js": "/mowos/index.html/static/js/main.77b849cd.js",
+    "static/js/787.ad98bcd2.chunk.js": "/mowos/index.html/static/js/787.ad98bcd2.chunk.js",
+    "static/media/logo.svg": "/mowos/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mowos/index.html/index.html",
+    "main.073c9b0a.css.map": "/mowos/index.html/static/css/main.073c9b0a.css.map",
+    "main.77b849cd.js.map": "/mowos/index.html/static/js/main.77b849cd.js.map",
+    "787.ad98bcd2.chunk.js.map": "/mowos/index.html/static/js/787.ad98bcd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.be15c6e9.js"
+    "static/js/main.77b849cd.js"
   ]
 }
