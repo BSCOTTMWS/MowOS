@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mowos/index.html/static/css/main.073c9b0a.css",
-    "main.js": "/mowos/index.html/static/js/main.77b849cd.js",
-    "static/js/787.ad98bcd2.chunk.js": "/mowos/index.html/static/js/787.ad98bcd2.chunk.js",
-    "static/media/logo.svg": "/mowos/index.html/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/mowos/index.html/index.html",
-    "main.073c9b0a.css.map": "/mowos/index.html/static/css/main.073c9b0a.css.map",
-    "main.77b849cd.js.map": "/mowos/index.html/static/js/main.77b849cd.js.map",
-    "787.ad98bcd2.chunk.js.map": "/mowos/index.html/static/js/787.ad98bcd2.chunk.js.map"
+    "main.css": "/MowOS/static/css/main.073c9b0a.css",
+    "main.js": "/MowOS/static/js/main.77b849cd.js",
+    "static/js/787.ad98bcd2.chunk.js": "/MowOS/static/js/787.ad98bcd2.chunk.js",
+    "static/media/logo.svg": "/MowOS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MowOS/index.html",
+    "main.073c9b0a.css.map": "/MowOS/static/css/main.073c9b0a.css.map",
+    "main.77b849cd.js.map": "/MowOS/static/js/main.77b849cd.js.map",
+    "787.ad98bcd2.chunk.js.map": "/MowOS/static/js/787.ad98bcd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
