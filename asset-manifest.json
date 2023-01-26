@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MowOS/static/css/main.724c79f4.css",
-    "main.js": "/MowOS/static/js/main.5d6390a2.js",
+    "main.js": "/MowOS/static/js/main.ea605cf1.js",
     "static/js/787.ad98bcd2.chunk.js": "/MowOS/static/js/787.ad98bcd2.chunk.js",
     "static/media/logo.svg": "/MowOS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MowOS/index.html",
     "main.724c79f4.css.map": "/MowOS/static/css/main.724c79f4.css.map",
-    "main.5d6390a2.js.map": "/MowOS/static/js/main.5d6390a2.js.map",
+    "main.ea605cf1.js.map": "/MowOS/static/js/main.ea605cf1.js.map",
     "787.ad98bcd2.chunk.js.map": "/MowOS/static/js/787.ad98bcd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.724c79f4.css",
-    "static/js/main.5d6390a2.js"
+    "static/js/main.ea605cf1.js"
   ]
 }
