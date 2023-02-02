@@ -72,6 +72,15 @@ export const HeroOverlay = styled('div')`
   height: 50%;
   background-color: orange;
 `
+export const HeroHeading = styled('div')`
+
+`
+export const HeroDesc = styled('div')`
+
+`
+export const HeroBtn = styled('div')`
+
+`
 
 // Section 2 (Overlap)
 export const S2BG = styled('section')`
@@ -79,7 +88,7 @@ export const S2BG = styled('section')`
   min-height: 50px;
   display: flex;
   justify-content: center;
-  margin-top: -275px; // lol idk
+  margin-top: -250px;
 `
 export const S2Vid = styled('div')`
   width: 60%;
@@ -98,20 +107,35 @@ export const CarouselSec = styled('section')`
 export const CTABG = styled('section')`
   width: 100%;
   height: 600px;
-  background-color: white;
+  background-color: blue;
   display: flex;
   justify-content: flex-end;
 `
-export const CTARight = styled('div')`
+export const CTARightOverlay = styled('div')`
   width: 30%;
   height: 100%;
   background-color: grey;
   opacity: 0.6;
+`
+export const CTARightHeader = styled('div')`
+  width: 80%;
+`
+export const CTARightLink = styled('div')`
+  width: 80%;
 `
 
 // Footer
 export const Footer = styled('footer')`
   width: 100%;
   height: 300px;
-  background-color: aqua;  
+  background-color: aqua;
+`
+export const FooterContainer = styled('div')`
+  width: 75%;
+  display: flex;
+  justify-content: space-around;
+`
+export const FooterBox = styled('div')`
+  width: 20%; // temp
+
 `
